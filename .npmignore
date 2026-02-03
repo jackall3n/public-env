@@ -1,0 +1,32 @@
+# Source
+src/
+
+# Config
+tsconfig.json
+build.ts
+.gitignore
+.npmignore
+
+# IDE
+.cursor/
+.idea/
+.vscode/
+
+# Claude
+.claude/
+.claude-flow/
+.mcp.json
+CLAUDE.md
+
+# Git
+.git/
+.github/
+
+# Dependencies
+node_modules/
+
+# Misc
+*.log
+.DS_Store
+.env*
+coverage/
