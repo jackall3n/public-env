@@ -1,6 +1,6 @@
 {
   "name": "public-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a mesh of public environment variables across frameworks",
   "type": "module",
   "sideEffects": false,
